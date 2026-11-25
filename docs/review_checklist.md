@@ -1,5 +1,5 @@
-- [✓] Correctness: the app does what the requirement says
-- [✓] Null safety: no ! on a value that can be null
-- [✓] Readability: clear names, small widgets, no dead code
-- [✓] Performance: const widgets, rebuilds limited to what changes
-- [✓] Security: no keys, tokens, or private data in the code
+- [x] Correctness: the app does what the requirement says
+- [x] Null safety: no ! on a value that can be null
+- [x] Readability: clear names, small widgets, no dead code
+- [x] Performance: const widgets, rebuilds limited to what changes
+- [x] Security: no keys, tokens, or private data in the code
